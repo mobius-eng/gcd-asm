@@ -1,0 +1,5 @@
+*.o
+*.lst
+gcd
+testio
+a.out
